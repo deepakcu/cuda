@@ -1,0 +1,5 @@
+ls /dev/nv*
+/dev/nvidia0  /dev/nvidiactl  /dev/nvidia-uvm  /dev/nvidia-uvm-tools  /dev/nvram
+
+/dev/nvidia-caps:
+nvidia-cap1  nvidia-cap2
